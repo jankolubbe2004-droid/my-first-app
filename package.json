@@ -1,0 +1,10 @@
+{
+  "name": "life-os",
+  "version": "1.0.0",
+  "description": "Life OS static landing page",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
